@@ -1,0 +1,3 @@
+#pragma once
+
+#define HUI_DYNAMIC_REFLECTION_CLASS_TAG
